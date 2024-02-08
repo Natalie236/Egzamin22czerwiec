@@ -1,8 +1,10 @@
-# Egzamin22czerwiec 1/2
-Egzamin INF.03 : 2022 - czerwiec
+# Egzamin22czerwiec
+Realizacja 1/2 arkusza INF.03 czerwiec 2022
 Autor: Natalie
-Data ukończenia: 08.02.2024
+Metodologia: HTML5 + CSS
 Program: Visual Studio Code
+Źródło: https://egzamin-informatyk.pl/arkusz-praktyczny-inf03-2022-06-01/
+Data ukończenia: 08.02.2024
 Adres: 
 Display - gałęź modyfikacyjna:
-https://egzamin-informatyk.pl/arkusz-praktyczny-inf03-2022-06-01/
+Pliki i foldery: 
