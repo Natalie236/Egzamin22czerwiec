@@ -1,6 +1,6 @@
 # Egzamin22czerwiec
 Realizacja 1/2 arkusza INF.03 czerwiec 2022
-Autor: Natalie
+Autor: natalie.sakura236@gmail.com
 Metodologia: HTML5 + CSS
 Program: Visual Studio Code
 Źródło: https://egzamin-informatyk.pl/arkusz-praktyczny-inf03-2022-06-01/
